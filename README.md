@@ -10,3 +10,6 @@
 <br/>4、按F12打开开发者工具，选择网络选项卡，如果没有内容就刷新下学习页面
 <br/>5、找到方法为POST，文件名为statStuProcessCellLogAndTimeLong的一项查看详细信息，在请求头中找到cookie和referer，复制以上所述参数后面的内容到config.txt中对应的位置。
 <br/>6、运行工具后稍等片刻，访问https://aq.fhmooc.com/stu/myStudy 进入个人中心检查累计学习时长。
+
+<br/><br/>
+![avatar](https://github.com/Polarisjl/freshStudyTime/raw/main/sample.png)
