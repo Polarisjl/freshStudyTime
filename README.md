@@ -4,7 +4,7 @@
 适用于aq.fhmooc.com
 <br/><br/>
 # 使用方法
-1、下载源码，或者下载release中我已经编译好的二进制版本，记得要一并下载config.txt配置文件，将两个文件放在同一目录下。
+1、下载源码，或者下载release中我已经编译好的二进制版本（如果你没有Python环境的话），记得要一并下载config.txt配置文件，将两个文件放在同一目录下。
 <br/>2、访问https://aq.fhmooc.com/home 登录自己的账号
 <br/>3、访问https://aq.fhmooc.com/knowStudy/amifawcspkfh3ziyldznq 点击下面任意一项课程，进入学习界面
 <br/>4、按F12打开开发者工具，选择网络选项卡，如果没有内容就刷新下学习页面
