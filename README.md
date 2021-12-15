@@ -12,5 +12,6 @@
 <br/>6、运行工具后稍等片刻，访问https://aq.fhmooc.com/stu/myStudy 进入个人中心检查累计学习时长。
 
 <br/>
-如下图所示：<br/>
+如下图所示：
+
 ![avatar](https://github.com/Polarisjl/freshStudyTime/raw/main/sample.png)
