@@ -1,0 +1,9 @@
+[header]
+Cookie = [paste your Cookie Context here]
+
+Referer = [paste your Referer Context here]
+
+[data]
+courseId = [paste your courseId Context here]
+moduleIds = [paste your moduleIds Context here]
+cellId = [paste your cellId Context here]
